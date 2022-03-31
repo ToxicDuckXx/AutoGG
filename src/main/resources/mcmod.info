@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autogg",
+  "name": "Auto GG",
+  "description": "A simple Auto GG mod for mc 1.8.9.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "Duck :D",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
